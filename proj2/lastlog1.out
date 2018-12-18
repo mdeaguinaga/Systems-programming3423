@@ -1,0 +1,1487 @@
+Username         Port     From             Latest
+root             pts/6    crush.cs.utsarr. Tue Aug 15 10:52:33 -0500 2017
+daemon                                     **Never logged in**
+bin                                        **Never logged in**
+sys                                        **Never logged in**
+sync                                       **Never logged in**
+games                                      **Never logged in**
+man                                        **Never logged in**
+lp                                         **Never logged in**
+mail                                       **Never logged in**
+news                                       **Never logged in**
+uucp                                       **Never logged in**
+proxy                                      **Never logged in**
+www-data                                   **Never logged in**
+backup                                     **Never logged in**
+list                                       **Never logged in**
+irc                                        **Never logged in**
+gnats                                      **Never logged in**
+nobody                                     **Never logged in**
+libuuid                                    **Never logged in**
+syslog                                     **Never logged in**
+messagebus                                 **Never logged in**
+landscape                                  **Never logged in**
+sshd                                       **Never logged in**
+ubuntu           pts/0    mangw.cs.utsarr. Wed Dec 16 16:49:41 -0600 2015
+statd                                      **Never logged in**
+usbmux                                     **Never logged in**
+avahi                                      **Never logged in**
+lightdm                                    **Never logged in**
+dnsmasq                                    **Never logged in**
+ntp                                        **Never logged in**
+colord                                     **Never logged in**
+kernoops                                   **Never logged in**
+pulse                                      **Never logged in**
+whoopsie                                   **Never logged in**
+bob2017                                    **Never logged in**
+rtkit                                      **Never logged in**
+saned                                      **Never logged in**
+hplip                                      **Never logged in**
+postfix                                    **Never logged in**
+uml-net                                    **Never logged in**
+vde2-net                                   **Never logged in**
+nslcd                                      **Never logged in**
+dan02            pts/4    129.115.27.206   Fri Jun 23 18:43:08 -0500 2017
+atc                                        **Never logged in**
+boppana          pts/4    172.24.141.179   Tue Nov 15 12:37:31 -0600 2016
+bylander                                   **Never logged in**
+cmurphy                                    **Never logged in**
+cs2073                                     **Never logged in**
+dsmolens         pts/3    desktop-ja85hhc. Thu Aug 10 16:51:49 -0500 2017
+jortiz                                     **Never logged in**
+korkmaz          pts/1    turgay-pc.cs.uts Thu May 19 14:15:21 -0500 2016
+krobbins                                   **Never logged in**
+maynard          pts/3    75-1-202-190.lig Mon Nov 14 21:12:10 -0600 2016
+mdoderer                                   **Never logged in**
+netadmin                                   **Never logged in**
+qitian                                     **Never logged in**
+rboppana                                   **Never logged in**
+shxu                                       **Never logged in**
+srobbins                                   **Never logged in**
+tosun            pts/1    176.239.65.115   Sat Aug 12 03:40:33 -0500 2017
+wagner                                     **Never logged in**
+womack                                     **Never logged in**
+wzhang                                     **Never logged in**
+dzhu                                       **Never logged in**
+niu                                        **Never logged in**
+vonronne                                   **Never logged in**
+atc1                                       **Never logged in**
+rmurphy          pts/5    129.162.226.17   Wed Aug  2 09:03:14 -0500 2017
+gbwhite                                    **Never logged in**
+jruan            pts/4    70-128-144-88.li Thu Jun  2 01:03:26 -0500 2016
+rsandhu                                    **Never logged in**
+cs1033                                     **Never logged in**
+bhogan           pts/2    n0000a024.cs.uts Tue Aug 15 12:23:46 -0500 2017
+mrobinso                                   **Never logged in**
+jpq                                        **Never logged in**
+classque                                   **Never logged in**
+gamedev                                    **Never logged in**
+vlawhern                                   **Never logged in**
+roberson                                   **Never logged in**
+gibson                                     **Never logged in**
+muzahid          pts/8    172.24.149.80    Mon Aug 14 16:52:08 -0500 2017
+cs3733a                                    **Never logged in**
+cs5513                                     **Never logged in**
+plama            pts/3    172.24.140.100   Thu Aug 10 13:01:07 -0500 2017
+xwang                                      **Never logged in**
+cs3443                                     **Never logged in**
+clark            pts/1    172.24.141.44    Fri Aug 18 08:42:30 -0500 2017
+jsherett                                   **Never logged in**
+tongpingliu                                **Never logged in**
+gdy273                                     **Never logged in**
+qsn295                                     **Never logged in**
+koq441                                     **Never logged in**
+out417                                     **Never logged in**
+bgi872           pts/5    104-191-15-134.l Mon Apr  3 19:39:33 -0500 2017
+xkl743                                     **Never logged in**
+eqd434           pts/2    cpe-70-121-194-2 Thu Mar 10 19:28:15 -0600 2016
+hvi604           pts/6    cpe-70-121-136-2 Tue Apr 26 21:29:38 -0500 2016
+vdy205           pts/1    129.115.27.205   Wed Apr 13 19:50:14 -0500 2016
+ahd260           pts/12   n0000d132.cs.uts Fri Jan 15 11:28:21 -0600 2016
+pbb749                                     **Never logged in**
+qhu044                                     **Never logged in**
+kls495           pts/1    rrcs-71-41-204-2 Tue Apr  4 13:45:27 -0500 2017
+utp942                                     **Never logged in**
+lkb998           pts/6    gnu015.cs.utsarr Fri Dec  2 12:56:18 -0600 2016
+fmj099           pts/15   n0000d189.cs.uts Thu Apr 14 15:04:58 -0500 2016
+qfk367                                     **Never logged in**
+eft434                                     **Never logged in**
+rjz134           pts/4    172.24.140.176   Wed Aug  2 16:33:42 -0500 2017
+rbm606                                     **Never logged in**
+wok726           pts/5    99-48-230-200.li Wed Oct 12 16:33:52 -0500 2016
+gmb447                                     **Never logged in**
+dlp902                                     **Never logged in**
+otr946                                     **Never logged in**
+cou294           pts/5    n0000a103.cs.uts Thu Aug 25 11:47:48 -0500 2016
+ahd227           pts/1    mobile-107-107-1 Thu Mar 17 19:14:06 -0500 2016
+ylm213                                     **Never logged in**
+qkz764           pts/3    cpe-70-121-204-5 Mon Feb 15 18:46:34 -0600 2016
+eoi333           pts/9    99-118-32-238.li Tue Mar 21 21:25:28 -0500 2017
+mek442                                     **Never logged in**
+kls288           pts/1    172.24.77.193    Mon Feb 22 15:30:37 -0600 2016
+mfq426                                     **Never logged in**
+bob562           pts/11   sanctum.cs.utsar Thu Aug 17 13:41:24 -0500 2017
+did326                                     **Never logged in**
+lpt913           pts/4    172.24.140.176   Wed Aug  2 16:33:42 -0500 2017
+mpr812                                     **Never logged in**
+sey967           pts/7    researcher-lab04 Wed Mar  1 19:18:39 -0600 2017
+las969           pts/4    cpe-76-185-225-3 Mon Apr 24 03:40:52 -0500 2017
+nmt366           pts/1    cpe-67-11-139-14 Wed Aug 16 01:07:45 -0500 2017
+rwl316                                     **Never logged in**
+pmf380                                     **Never logged in**
+bzz738                                     **Never logged in**
+tdd326                                     **Never logged in**
+eay515           pts/9    cpe-67-10-132-52 Sat Apr 30 00:23:46 -0500 2016
+kku491                                     **Never logged in**
+kpm261                                     **Never logged in**
+ntk860                                     **Never logged in**
+jlz371           pts/19   cpe-72-178-119-2 Mon Apr 11 19:31:17 -0500 2016
+pjo597                                     **Never logged in**
+kto128           pts/3    cpe-67-11-59-14. Fri Feb 24 00:09:11 -0600 2017
+ikg898           pts/6    75.102.133.47    Tue Apr  4 23:51:02 -0500 2017
+vjw191           pts/6    rossy-optiplex-9 Fri Feb 24 15:03:15 -0600 2017
+ibw719           pts/4    cpe-66-69-65-110 Mon Oct 17 20:50:29 -0500 2016
+ykj195           pts/5    172.24.41.156    Thu May 11 12:45:06 -0500 2017
+luq997                                     **Never logged in**
+kxg039                                     **Never logged in**
+vvf555           pts/1    cpe-68-203-207-1 Sun Jun 18 20:23:56 -0500 2017
+ubh226           pts/1    n0000a085.cs.uts Wed Jul 19 12:57:26 -0500 2017
+knl865           pts/3    172.24.34.84     Fri Mar 25 11:18:58 -0500 2016
+tck420                                     **Never logged in**
+kzy768                                     **Never logged in**
+mgh190           pts/7    172.24.58.116    Mon Nov 21 13:05:56 -0600 2016
+ppk295           pts/5    n0000a027.cs.uts Mon Sep 19 10:15:56 -0500 2016
+ckw273           pts/5    172.24.81.35     Fri Jun  9 15:54:26 -0500 2017
+tck741           pts/3    rrcs-71-42-105-7 Mon May  9 17:12:07 -0500 2016
+fvu254                                     **Never logged in**
+fps305                                     **Never logged in**
+ozn719                                     **Never logged in**
+ado018                                     **Never logged in**
+gkh908                                     **Never logged in**
+yks374                                     **Never logged in**
+kyw376           pts/1    172.24.115.58    Tue Feb 16 18:43:40 -0600 2016
+wun846                                     **Never logged in**
+cyg466                                     **Never logged in**
+kkg575           pts/3    respalda.cs.utsa Wed Sep  7 11:49:11 -0500 2016
+dwt554           pts/1    rrcs-67-79-244-3 Fri Oct 14 23:27:54 -0500 2016
+ref678           pts/3    108-65-244-156.l Thu Mar 24 01:07:31 -0500 2016
+oep224                                     **Never logged in**
+qro175           pts/11   gnu034.cs.utsarr Wed Oct 12 18:45:11 -0500 2016
+aqu078                                     **Never logged in**
+zcd896                                     **Never logged in**
+mso958                                     **Never logged in**
+nfi728                                     **Never logged in**
+nlw716                                     **Never logged in**
+vaa291           pts/5    172.24.26.119    Thu Feb 18 15:15:06 -0600 2016
+wbh343                                     **Never logged in**
+rqe523                                     **Never logged in**
+njn130           pts/4    cpe-67-10-172-15 Wed Aug 16 18:37:06 -0500 2017
+mba737                                     **Never logged in**
+bgx822                                     **Never logged in**
+jfl014                                     **Never logged in**
+pfv610                                     **Never logged in**
+ypo392                                     **Never logged in**
+jlh340           pts/4    162-205-226-120. Mon Apr 24 02:27:15 -0500 2017
+aez171                                     **Never logged in**
+lym192                                     **Never logged in**
+hua647           pts/1    104-63-12-60.lig Fri Jun  3 16:26:00 -0500 2016
+hwm008           pts/9    n0000e032.cs.uts Thu Feb 16 10:04:39 -0600 2017
+wuc956           pts/6    10.100.235.23    Wed Mar 22 20:28:07 -0500 2017
+ipp807           pts/7    172.24.24.114    Thu Dec 15 17:20:14 -0600 2016
+pur489           pts/10   cpe-173-174-210- Sat Apr 29 22:12:57 -0500 2017
+inv892           pts/11   172.24.16.174    Thu Aug 10 11:26:57 -0500 2017
+rsb352                                     **Never logged in**
+joh531                                     **Never logged in**
+vbg699           pts/3    172.24.90.149    Fri Feb  5 12:21:03 -0600 2016
+puj049                                     **Never logged in**
+pmg299           pts/2    cpe-72-177-237-2 Thu May  4 21:06:59 -0500 2017
+vac921           pts/16   129.115.27.204   Tue Nov 29 18:32:52 -0600 2016
+mdd828                                     **Never logged in**
+lze345           pts/2    172.24.11.51     Mon Feb 29 10:58:27 -0600 2016
+xzk795           pts/4    104-191-12-115.l Sun Apr  3 19:31:03 -0500 2016
+ybt727                                     **Never logged in**
+mci538           pts/10   t0000b027.cs.uts Mon Oct 17 10:07:03 -0500 2016
+jxo355           pts/1    n0000a077.cs.uts Mon Jul 10 23:30:22 -0500 2017
+dnu063                                     **Never logged in**
+lrv386           pts/18   cpe-72-179-168-1 Fri Oct  7 16:10:48 -0500 2016
+tta032                                     **Never logged in**
+xnw230           pts/5    dns-104-218-76-1 Sat Apr 30 15:09:43 -0500 2016
+iij790           pts/2    cpe-72-179-179-1 Mon May  8 02:04:56 -0500 2017
+wyl492           pts/8    172.24.37.156    Fri Apr 15 19:08:33 -0500 2016
+uvy448                                     **Never logged in**
+sgn017                                     **Never logged in**
+gbc915                                     **Never logged in**
+yup858                                     **Never logged in**
+vle822           pts/1    99-41-197-125.li Tue Jul 11 21:24:36 -0500 2017
+wio835           pts/2    172.24.56.209    Thu Apr 27 08:36:10 -0500 2017
+gcf634           pts/1    cpe-97-98-63-106 Mon May  8 23:18:21 -0500 2017
+qbe077                                     **Never logged in**
+ljr179           pts/0    n0000a009.cs.uts Fri Aug 11 16:30:56 -0500 2017
+cqb212           pts/11   99-137-250-183.l Wed Apr 27 01:38:10 -0500 2016
+grz625                                     **Never logged in**
+jfg119           pts/7    cpe-70-121-199-1 Sat Nov 19 21:57:01 -0600 2016
+laa814                                     **Never logged in**
+nue338                                     **Never logged in**
+xrn665           pts/7    172.24.92.117    Thu Mar  9 13:30:05 -0600 2017
+foc727           pts/3    172.24.106.243   Wed Apr 13 12:31:11 -0500 2016
+hlz000           pts/2    107-136-100-159. Tue Oct 18 23:58:49 -0500 2016
+dah976           pts/1    c-50-162-95-194. Fri Mar 10 12:38:18 -0600 2017
+bei092           pts/4    45-16-112-15.lig Wed Aug 31 19:50:44 -0500 2016
+yky605           pts/5    t0000b015.cs.uts Mon Nov 21 10:06:13 -0600 2016
+abl905                                     **Never logged in**
+cba826           pts/2    cpe-67-11-155-58 Sun Aug 28 23:24:02 -0500 2016
+kiq577           pts/0    mobile-166-176-2 Fri Aug 11 20:56:20 -0500 2017
+nmx603           pts/2    108-95-36-238.li Sat Feb 11 15:51:01 -0600 2017
+dwa105                                     **Never logged in**
+rcx653                                     **Never logged in**
+amg542                                     **Never logged in**
+cdc024           pts/7    n0000e121.cs.uts Tue Mar  7 11:23:21 -0600 2017
+lgy513           pts/3    n0000d049.cs.uts Fri Jan 29 13:54:08 -0600 2016
+cmj285           pts/6    99-190-20-242.li Sat Feb  4 23:02:21 -0600 2017
+wjq864           pts/10   visualt.cs.utsar Thu Feb 11 08:19:25 -0600 2016
+shb685                                     **Never logged in**
+hts894           pts/3    n0000a029.cs.uts Sun Apr  2 17:16:21 -0500 2017
+bur345                                     **Never logged in**
+yyc843                                     **Never logged in**
+bod981                                     **Never logged in**
+skk793                                     **Never logged in**
+asl021                                     **Never logged in**
+zli781                                     **Never logged in**
+ulz879           pts/6    rrcs-50-84-70-83 Sat Dec 10 17:14:08 -0600 2016
+fzo811                                     **Never logged in**
+qjv007           pts/2    cpe-72-190-156-2 Sat Apr 29 23:56:53 -0500 2017
+ivd571           pts/1    n0000d005.cs.uts Wed Jan 13 16:57:18 -0600 2016
+nwx265                                     **Never logged in**
+jwu199                                     **Never logged in**
+mex208           pts/17   172.24.69.109    Thu Apr 20 12:31:18 -0500 2017
+pep565                                     **Never logged in**
+yng233                                     **Never logged in**
+wze226                                     **Never logged in**
+tqd896           pts/10   107-136-103-62.l Tue Mar 21 21:33:53 -0500 2017
+qlj814                                     **Never logged in**
+exi974           pts/4    n0000a016.cs.uts Mon Jul 24 13:18:12 -0500 2017
+hcf612                                     **Never logged in**
+zdn158                                     **Never logged in**
+jvr632                                     **Never logged in**
+dju401           pts/5    75-1-132-18.ligh Thu Apr 21 08:36:13 -0500 2016
+jue014           pts/1    n0000e081.cs.uts Mon Mar  6 17:17:12 -0600 2017
+gsd342           pts/4    cpe-66-69-46-215 Sun Dec 18 18:09:28 -0600 2016
+xoe270           pts/3    t0000b078.cs.uts Wed Oct 12 13:32:10 -0500 2016
+xgi895           pts/4    172.24.114.130   Fri Nov 11 11:38:40 -0600 2016
+mjv701                                     **Never logged in**
+nzx561                                     **Never logged in**
+cdm374           pts/6    172.24.8.72      Mon Apr 18 22:35:38 -0500 2016
+wak438           pts/2    n0000a048.cs.uts Wed Apr 19 19:51:13 -0500 2017
+yxz052           pts/4    t0000b105.cs.uts Mon Dec  5 16:06:21 -0600 2016
+pim546                                     **Never logged in**
+rfu240                                     **Never logged in**
+hih451           pts/5    172.24.142.134   Mon Mar 27 15:50:18 -0500 2017
+sdz077           pts/13   n0000d191.cs.uts Wed Feb 24 16:24:26 -0600 2016
+eqc049                                     **Never logged in**
+lyk134           pts/2    172.24.44.137    Wed Feb  1 20:40:27 -0600 2017
+gco267                                     **Never logged in**
+yhm961                                     **Never logged in**
+yri626                                     **Never logged in**
+fmk344           pts/15   n0000d067.cs.uts Wed Apr 27 12:17:02 -0500 2016
+dha861           pts/5    104-191-14-66.li Wed Aug  9 16:24:37 -0500 2017
+dxe279           pts/10   129.115.27.205   Mon Nov 14 13:26:50 -0600 2016
+nuy300                                     **Never logged in**
+mme827                                     **Never logged in**
+isr830                                     **Never logged in**
+zad964                                     **Never logged in**
+jni418                                     **Never logged in**
+arq131                                     **Never logged in**
+qiw407                                     **Never logged in**
+cyr471           pts/6    129.115.27.205   Tue Nov 22 13:49:47 -0600 2016
+roe534           pts/17   172.24.97.150    Mon Apr 11 17:09:00 -0500 2016
+mqw545                                     **Never logged in**
+oxj468           pts/1    visualt.cs.utsar Wed Apr 26 11:20:41 -0500 2017
+esc456                                     **Never logged in**
+kcs805           pts/6    n0000d128.cs.uts Fri Jan 15 12:00:34 -0600 2016
+hqm245                                     **Never logged in**
+tut056           pts/5    172.24.32.158    Mon Jul 31 14:28:40 -0500 2017
+yzn246                                     **Never logged in**
+fdr805                                     **Never logged in**
+rfg912           pts/1    cpe-72-177-234-1 Fri Jun 16 01:41:47 -0500 2017
+cux144                                     **Never logged in**
+mfa116                                     **Never logged in**
+jrt917                                     **Never logged in**
+ttf248           pts/1    rrcs-67-78-105-2 Thu Jul 27 18:27:08 -0500 2017
+jxw225                                     **Never logged in**
+jae850           pts/3    66-90-157-199.dy Wed Apr 20 20:59:01 -0500 2016
+yhf649                                     **Never logged in**
+xoo873                                     **Never logged in**
+num945                                     **Never logged in**
+nux749                                     **Never logged in**
+ttv650           pts/5    cpe-70-121-195-2 Mon Feb 15 12:44:26 -0600 2016
+yzb023           pts/4    n0000d098.cs.uts Wed Feb 10 10:52:58 -0600 2016
+yee892                                     **Never logged in**
+spx956           pts/7    cpe-72-179-149-1 Sun Mar  5 23:59:24 -0600 2017
+vab840                                     **Never logged in**
+vxg529           pts/25   172.24.12.189    Mon Sep 26 21:30:59 -0500 2016
+rrn382                                     **Never logged in**
+vog010           pts/2    cpe-72-177-224-4 Mon Jun  5 18:43:11 -0500 2017
+cpg704           pts/6    104-191-75-219.l Sat Mar  4 09:21:50 -0600 2017
+uje603                                     **Never logged in**
+mki259                                     **Never logged in**
+ngq688                                     **Never logged in**
+sud458           pts/15   172.24.56.62     Thu Apr 20 12:40:47 -0500 2017
+kgk363                                     **Never logged in**
+voj525           pts/0    172.24.32.160    Thu Aug 10 17:52:01 -0500 2017
+fgu365                                     **Never logged in**
+fpj755                                     **Never logged in**
+tkb442           pts/0    143.166.253.246  Thu Aug 10 17:15:37 -0500 2017
+ixs644                                     **Never logged in**
+qmq016                                     **Never logged in**
+ore701                                     **Never logged in**
+xxi544           pts/6    45-21-4-38.light Tue Dec  6 21:17:06 -0600 2016
+haa732           pts/9    cpe-72-190-171-1 Tue Apr 26 11:53:35 -0500 2016
+sfv005                                     **Never logged in**
+pjk053           pts/1    172.24.8.151     Sun Apr 10 18:20:09 -0500 2016
+bas710                                     **Never logged in**
+ukb102           pts/6    172.24.48.144    Tue Apr 25 10:10:20 -0500 2017
+ksx743           pts/1    172.24.113.122   Wed Mar  2 14:13:38 -0600 2016
+ipu499           pts/11   cpe-72-179-177-2 Thu Nov 10 18:43:52 -0600 2016
+cwe982                                     **Never logged in**
+vkw609                                     **Never logged in**
+jgj308           pts/6    cpe-70-112-95-17 Fri Mar 24 16:44:14 -0500 2017
+zfo839                                     **Never logged in**
+ahf823                                     **Never logged in**
+qcy166           pts/1    rrcs-67-79-244-2 Fri Mar 11 23:26:56 -0600 2016
+gfq474                                     **Never logged in**
+dwl306           pts/6    cpe-72-190-134-1 Sun Dec  4 21:44:54 -0600 2016
+mle875           pts/9    cpe-173-174-196- Fri Apr 22 00:42:15 -0500 2016
+btl960                                     **Never logged in**
+pth024           pts/3    172.24.100.110   Thu Feb 16 22:11:13 -0600 2017
+pso028           pts/10   172.24.120.213   Mon Mar  7 16:09:55 -0600 2016
+vok844           pts/4    cpe-76-185-134-1 Mon Jul 24 19:18:03 -0500 2017
+ehf110                                     **Never logged in**
+lmz654           pts/4    cpe-70-125-154-1 Thu Dec  8 01:21:46 -0600 2016
+vlr453                                     **Never logged in**
+znz946                                     **Never logged in**
+zsw997           pts/1    172.24.89.105    Mon Jul 24 14:53:11 -0500 2017
+gzf183                                     **Never logged in**
+myu              pts/2    172.24.142.122   Tue Feb 16 13:20:18 -0600 2016
+michael          pts/1    72-186-73-83.res Mon Aug 14 15:40:02 -0500 2017
+bbp777                                     **Never logged in**
+gzo682           pts/13   cpe-173-174-172- Tue Mar  8 16:58:11 -0600 2016
+mwn709           pts/6    rrcs-98-6-89-51. Mon Oct 10 22:19:37 -0500 2016
+bkl740                                     **Never logged in**
+izp727                                     **Never logged in**
+jhc025                                     **Never logged in**
+xjc469           pts/2    cpe-72-179-178-8 Mon Jun 12 18:37:21 -0500 2017
+fce580           pts/7    72-48-67-165.dyn Mon Nov  7 23:09:08 -0600 2016
+bct105           pts/13   172.24.78.6      Mon Oct 10 17:33:53 -0500 2016
+kpc541                                     **Never logged in**
+pai139           pts/3    n0000d081.cs.uts Tue Mar 29 17:55:08 -0500 2016
+rid487                                     **Never logged in**
+ark173                                     **Never logged in**
+kvr382                                     **Never logged in**
+sym261                                     **Never logged in**
+qqa368                                     **Never logged in**
+kvf069                                     **Never logged in**
+hma508                                     **Never logged in**
+ekx763           pts/13   cpe-67-11-229-21 Fri Apr 29 23:31:18 -0500 2016
+wce866                                     **Never logged in**
+pkj363                                     **Never logged in**
+jsr428           pts/5    n0000a016.cs.uts Thu Aug  3 16:55:14 -0500 2017
+ipz488                                     **Never logged in**
+wyw110           pts/1    99-52-72-45.ligh Wed Aug 16 11:33:47 -0500 2017
+qqq362           pts/10   n0000d019.cs.uts Fri Jan 15 11:13:14 -0600 2016
+lmf268                                     **Never logged in**
+tqs485           pts/4    adsl-69-152-224- Fri Aug  4 01:13:57 -0500 2017
+rqw223           pts/2    cpe-72-177-231-2 Mon Jun 26 20:41:38 -0500 2017
+mwy885                                     **Never logged in**
+wom120                                     **Never logged in**
+hoc801           pts/11   n0000a076.cs.uts Fri Apr 28 21:02:58 -0500 2017
+lmk524                                     **Never logged in**
+mve673                                     **Never logged in**
+odi859                                     **Never logged in**
+soj199           pts/3    cpe-68-206-241-1 Fri Aug 26 19:55:58 -0500 2016
+mzb440           pts/3    n0000a040.cs.uts Tue Aug  8 13:41:24 -0500 2017
+ieh506                                     **Never logged in**
+eof443           pts/4    mobile-107-107-1 Mon May 15 15:42:34 -0500 2017
+aay125                                     **Never logged in**
+zfn653                                     **Never logged in**
+qvd939                                     **Never logged in**
+eny167                                     **Never logged in**
+ayk139                                     **Never logged in**
+twf198                                     **Never logged in**
+men839                                     **Never logged in**
+voz977                                     **Never logged in**
+mza103                                     **Never logged in**
+azm371                                     **Never logged in**
+bsx745           pts/10   n0000e078.cs.uts Fri Feb 10 15:31:54 -0600 2017
+egk135           pts/15   172.24.26.86     Thu Apr 20 12:29:19 -0500 2017
+qrw617                                     **Never logged in**
+nfg465           pts/3    gnu003.cs.utsarr Mon Nov 14 22:07:54 -0600 2016
+ccu718           pts/1    4.16.216.161     Wed Aug 16 08:58:49 -0500 2017
+vfi337           pts/17   rrcs-97-77-107-2 Mon Sep 26 16:59:34 -0500 2016
+xsi212                                     **Never logged in**
+lrt285                                     **Never logged in**
+dyn176                                     **Never logged in**
+txi646           pts/1    172.24.149.223   Wed Jul 26 20:01:14 -0500 2017
+ehn207                                     **Never logged in**
+opk269                                     **Never logged in**
+ows633                                     **Never logged in**
+rha799                                     **Never logged in**
+glc409           pts/5    desktop-7njphn1. Tue Feb 14 16:14:54 -0600 2017
+mny826           pts/10   cpe-70-123-227-7 Wed Mar  1 18:09:16 -0600 2017
+wfb926           pts/4    t0000b022.cs.uts Wed Dec  7 21:37:37 -0600 2016
+hyq004                                     **Never logged in**
+fva001                                     **Never logged in**
+gas979                                     **Never logged in**
+mwp790                                     **Never logged in**
+ize364           pts/4    n0000a040.cs.uts Tue Jul 25 12:17:35 -0500 2017
+scc628                                     **Never logged in**
+ffs800                                     **Never logged in**
+qfd922           pts/4    cpe-72-179-171-2 Sat Jul 29 16:07:51 -0500 2017
+mtw288           pts/6    172.24.61.54     Tue Mar  7 20:38:45 -0600 2017
+pkd393                                     **Never logged in**
+fpf533                                     **Never logged in**
+bue135           pts/3    n0000d042.cs.uts Thu Jan 19 11:33:35 -0600 2017
+daj177                                     **Never logged in**
+btc909           pts/6    129.115.27.203   Fri Mar  3 17:50:51 -0600 2017
+qqy077                                     **Never logged in**
+bhd445                                     **Never logged in**
+thg650                                     **Never logged in**
+wkk364                                     **Never logged in**
+ovk344                                     **Never logged in**
+gsw829                                     **Never logged in**
+vkq670           pts/2    cpe-72-177-231-1 Mon Feb 13 21:22:18 -0600 2017
+mpk450           pts/1    cpe-24-26-239-23 Tue Jul 11 08:34:06 -0500 2017
+mtr746           pts/6    172.24.123.226   Fri Apr 29 12:07:45 -0500 2016
+nhm833           pts/5    172.24.143.133   Mon Apr 10 17:00:38 -0500 2017
+pzv931                                     **Never logged in**
+qmu318           pts/4    173.227.72.99    Mon Feb  1 20:56:39 -0600 2016
+gaj223                                     **Never logged in**
+xfg886                                     **Never logged in**
+jxt528           pts/1    99-61-26-162.lig Fri Mar 11 20:22:12 -0600 2016
+qhn756           pts/6    cpe-67-11-188-12 Sun Apr 10 21:41:39 -0500 2016
+xfd242           pts/4    n0000a019.cs.uts Tue Jul 18 12:03:09 -0500 2017
+ihu203                                     **Never logged in**
+zbs516           pts/10   rrcs-67-79-246-1 Wed Dec 14 22:03:15 -0600 2016
+nuh179           pts/3    172.24.28.204    Thu Apr  6 14:24:45 -0500 2017
+jye226           pts/3    n0000d009.cs.uts Thu Sep 29 12:15:05 -0500 2016
+drp947                                     **Never logged in**
+gps797                                     **Never logged in**
+bwi912           pts/6    n0000d140.cs.uts Fri Jan 15 11:12:22 -0600 2016
+vcd682                                     **Never logged in**
+spq686                                     **Never logged in**
+ltk420                                     **Never logged in**
+cnn540                                     **Never logged in**
+dxv541                                     **Never logged in**
+wam806                                     **Never logged in**
+sni550                                     **Never logged in**
+vux564                                     **Never logged in**
+dqv124                                     **Never logged in**
+jpy640                                     **Never logged in**
+rav802           pts/4    host-1-77.txsaav Mon Nov 14 20:33:17 -0600 2016
+rkc870                                     **Never logged in**
+fls146           pts/6    n0000d128.cs.uts Fri Apr 29 12:56:24 -0500 2016
+sub092           pts/3    172.24.99.91     Fri Mar 25 13:24:38 -0500 2016
+kex174                                     **Never logged in**
+fjh531                                     **Never logged in**
+gsu000                                     **Never logged in**
+qmg672                                     **Never logged in**
+xpy797           pts/4    n0000d160.cs.uts Mon Feb 15 17:26:42 -0600 2016
+kdq088           pts/11   n0000b024.cs.uts Wed Jul 13 10:06:37 -0500 2016
+drj317                                     **Never logged in**
+oee864           pts/1    host-0-136.txsaa Thu Aug 17 20:13:50 -0500 2017
+mqf073           pts/22   173.227.72.119   Mon Sep 26 20:42:47 -0500 2016
+gre068                                     **Never logged in**
+cig399                                     **Never logged in**
+xhe341                                     **Never logged in**
+gon230                                     **Never logged in**
+biv526                                     **Never logged in**
+glp214                                     **Never logged in**
+tzb425           pts/4    75-1-50-184.ligh Wed Feb 24 10:26:38 -0600 2016
+qbc030                                     **Never logged in**
+cxk437           pts/1    172.24.105.17    Thu Aug 17 15:52:32 -0500 2017
+prn180                                     **Never logged in**
+ihq300                                     **Never logged in**
+isj697                                     **Never logged in**
+dat986           pts/0    50.35.122.192    Tue May 23 12:45:24 -0500 2017
+veh844                                     **Never logged in**
+qpz027                                     **Never logged in**
+zqk989                                     **Never logged in**
+ppg583                                     **Never logged in**
+zri912                                     **Never logged in**
+izu234                                     **Never logged in**
+gxp895                                     **Never logged in**
+ziz179                                     **Never logged in**
+jallardyce       pts/1    cpe-72-191-56-10 Sun Jan  8 21:21:37 -0600 2017
+xki801                                     **Never logged in**
+rqq056                                     **Never logged in**
+moa928           pts/1    n0000a072.cs.uts Wed Jul 19 15:06:36 -0500 2017
+otw714           pts/1    n0000d150.cs.uts Tue Apr  5 17:19:17 -0500 2016
+jky266                                     **Never logged in**
+yyc609           pts/6    n0000e020.cs.uts Mon Mar 13 19:32:08 -0500 2017
+hxx392                                     **Never logged in**
+ekj707                                     **Never logged in**
+skq576                                     **Never logged in**
+ipo740                                     **Never logged in**
+yug210                                     **Never logged in**
+llc142                                     **Never logged in**
+yti140           pts/6    172.24.122.116   Mon Oct 10 16:42:12 -0500 2016
+qnt041                                     **Never logged in**
+wzj875                                     **Never logged in**
+knh946           pts/10   n0000a084.cs.uts Thu Aug 10 11:02:54 -0500 2017
+kjt791                                     **Never logged in**
+kmx064                                     **Never logged in**
+kie476                                     **Never logged in**
+nar518                                     **Never logged in**
+ecs424                                     **Never logged in**
+qzn876                                     **Never logged in**
+wyg935                                     **Never logged in**
+lju665           pts/18   76-210-197-55.li Mon Sep 26 21:01:10 -0500 2016
+svb294                                     **Never logged in**
+djy106           pts/8    n0000d152.cs.uts Wed Mar  2 17:04:24 -0600 2016
+jbu996                                     **Never logged in**
+dif755           pts/2    172.24.49.163    Fri Aug 11 18:35:50 -0500 2017
+iqi184                                     **Never logged in**
+xii523           pts/3    n0000e013.cs.uts Tue Feb 14 11:54:56 -0600 2017
+tnf746           pts/1    172.24.114.19    Mon Jul 10 18:54:51 -0500 2017
+xzc844                                     **Never logged in**
+wsx749                                     **Never logged in**
+udg730           pts/13   n0000e010.cs.uts Sun Mar  5 21:11:13 -0600 2017
+nfl234                                     **Never logged in**
+ssi130           pts/6    99-5-223-19.ligh Mon Jul 24 22:18:25 -0500 2017
+lvg821           pts/11   n0000d194.cs.uts Fri Jan 15 11:13:59 -0600 2016
+oyt334                                     **Never logged in**
+wgz594           pts/5    rrcs-67-78-105-2 Mon Jun 27 22:13:09 -0500 2016
+hpv440                                     **Never logged in**
+rrb784           pts/10   n0000d154.cs.uts Thu Apr 21 12:06:48 -0500 2016
+saw701           pts/18   172.24.53.193    Mon Sep 26 15:04:19 -0500 2016
+siu995           pts/4    n0000a067.cs.uts Thu Apr 20 12:03:45 -0500 2017
+pep605                                     **Never logged in**
+ior298                                     **Never logged in**
+ocm430                                     **Never logged in**
+xcj858           pts/1    129.115.27.201   Tue Jan 24 16:26:44 -0600 2017
+fph670                                     **Never logged in**
+fsv212                                     **Never logged in**
+cre023                                     **Never logged in**
+wnc992                                     **Never logged in**
+qox385           pts/3    cpe-67-11-225-25 Mon Aug  7 23:35:11 -0500 2017
+epg755                                     **Never logged in**
+ows898                                     **Never logged in**
+fxf845                                     **Never logged in**
+fgd806                                     **Never logged in**
+ivp811                                     **Never logged in**
+bow222                                     **Never logged in**
+zhz322                                     **Never logged in**
+vql720           pts/3    n0000d144.cs.uts Tue Jan 31 14:15:52 -0600 2017
+duq350                                     **Never logged in**
+cru103           pts/3    n0000d013.cs.uts Sun Oct  2 00:41:36 -0500 2016
+ouq128           pts/3    104-5-157-117.li Thu Mar 17 11:59:15 -0500 2016
+cvt133           pts/6    cpe-66-69-67-233 Fri Mar 31 22:21:02 -0500 2017
+rze547                                     **Never logged in**
+fiq362           pts/1    75.102.133.44    Mon Aug 14 22:34:32 -0500 2017
+ysk778                                     **Never logged in**
+mdt455                                     **Never logged in**
+nro766           pts/2    75.102.133.51    Sat Sep 10 22:57:24 -0500 2016
+pnq714           pts/9    172.24.84.111    Thu Apr 27 15:02:48 -0500 2017
+rwu105           pts/7    172.24.1.76      Wed Mar  1 14:11:46 -0600 2017
+uwe880                                     **Never logged in**
+xsm962                                     **Never logged in**
+yby805                                     **Never logged in**
+kcf839           pts/1    jpllic-3104.utsa Wed Jul 26 14:26:10 -0500 2017
+zjt628                                     **Never logged in**
+uxq505                                     **Never logged in**
+xzh801                                     **Never logged in**
+uiz112                                     **Never logged in**
+hep852                                     **Never logged in**
+uli381           pts/0    172.24.139.170   Fri Aug 11 18:34:43 -0500 2017
+ekb528           pts/11   223.62.162.243   Tue Aug 15 04:41:32 -0500 2017
+oca485                                     **Never logged in**
+hov611           pts/6    172.56.6.23      Fri Nov 25 17:47:27 -0600 2016
+iia151                                     **Never logged in**
+aog729           pts/12   n0000d181.cs.uts Thu Mar 10 11:25:57 -0600 2016
+wlr314           pts/3    172.24.85.48     Tue Nov  1 16:22:51 -0500 2016
+qhb567                                     **Never logged in**
+npz660           pts/5    n0000a063.cs.uts Thu Aug 10 10:50:53 -0500 2017
+swf474                                     **Never logged in**
+xdk556                                     **Never logged in**
+jqz831                                     **Never logged in**
+fsg383                                     **Never logged in**
+rmr581           pts/4    172.24.66.252    Mon Nov 14 12:00:12 -0600 2016
+ert283                                     **Never logged in**
+xgj346                                     **Never logged in**
+rqv398                                     **Never logged in**
+mkp287                                     **Never logged in**
+stjonak                                    **Never logged in**
+vzu944                                     **Never logged in**
+poi889                                     **Never logged in**
+gap067           pts/5    cpe-72-191-44-16 Mon Oct 10 20:54:38 -0500 2016
+mdd860           pts/14   75-1-161-116.lig Sun Mar  5 21:43:55 -0600 2017
+jjd665           pts/16   n0000b018.cs.uts Wed Jun  1 11:05:59 -0500 2016
+aoc799           pts/1    n0000a028.cs.uts Tue Jun 13 12:10:22 -0500 2017
+fis637                                     **Never logged in**
+dpo131           pts/14   n0000b025.cs.uts Wed Jun  1 12:17:38 -0500 2016
+kxo254           pts/6    172.24.24.40     Fri Dec  2 13:20:20 -0600 2016
+sfq538           pts/1    75.102.133.82    Mon May  1 00:59:47 -0500 2017
+dbr053                                     **Never logged in**
+ezh767                                     **Never logged in**
+zsm005           pts/1    108-87-100-218.l Tue Apr 25 00:08:27 -0500 2017
+gyj140                                     **Never logged in**
+nwc206                                     **Never logged in**
+yjw297           pts/4    rr160679ip01.uts Wed Aug  2 12:26:58 -0500 2017
+yln380           pts/11   n0000b007.cs.uts Wed Jun  1 10:59:47 -0500 2016
+ohh135           pts/10   rrcs-108-178-113 Mon Feb 27 22:58:38 -0600 2017
+bgq406                                     **Never logged in**
+axy091                                     **Never logged in**
+kkw293           pts/2    mobile-166-172-1 Sat Aug 12 12:56:59 -0500 2017
+fdh965           pts/5    n0000b077.cs.uts Mon Aug  1 12:15:37 -0500 2016
+nai500                                     **Never logged in**
+izp179           pts/1    107.72.96.238    Thu Jun 15 13:38:51 -0500 2017
+eoi570           pts/2    108-66-241-50.li Fri Aug 11 13:37:48 -0500 2017
+blc006                                     **Never logged in**
+kwl646                                     **Never logged in**
+ttu520                                     **Never logged in**
+xqr084                                     **Never logged in**
+moc621                                     **Never logged in**
+jei517                                     **Never logged in**
+eer089           pts/1    172.24.2.156     Wed Jan 11 09:28:10 -0600 2017
+vbl022                                     **Never logged in**
+oqb412                                     **Never logged in**
+knr393           pts/2    n0000a053.cs.uts Tue Aug 23 10:15:17 -0500 2016
+wir287           pts/9    172.24.73.188    Mon Jul 31 20:59:56 -0500 2017
+svq553           pts/2    cpe-173-174-164- Tue Jul  4 15:09:06 -0500 2017
+yuh277                                     **Never logged in**
+xpl451                                     **Never logged in**
+kbaldor                                    **Never logged in**
+uwy390           pts/2    bigdata1.cs.utsa Wed Jul  5 13:33:27 -0500 2017
+nkim             pts/4    vcpassword.cs.ut Tue Aug  8 13:58:16 -0500 2017
+wwang            pts/4    cpe-68-206-97-19 Sat Jul 29 20:48:52 -0500 2017
+fhh539                                     **Never logged in**
+fyf659                                     **Never logged in**
+tld845                                     **Never logged in**
+cwx798                                     **Never logged in**
+qre395                                     **Never logged in**
+fnv021                                     **Never logged in**
+kbs997           pts/1    n0000d105.cs.uts Wed Jan 11 13:58:35 -0600 2017
+utq264                                     **Never logged in**
+giy198           pts/4    cpe-72-190-140-2 Sun Jul  2 18:08:19 -0500 2017
+efo040           pts/6    99-61-30-199.lig Tue Mar 21 00:03:57 -0500 2017
+esf704                                     **Never logged in**
+eqs957                                     **Never logged in**
+ymi778                                     **Never logged in**
+oek437                                     **Never logged in**
+xnh794                                     **Never logged in**
+hml267                                     **Never logged in**
+pky904                                     **Never logged in**
+wte615                                     **Never logged in**
+mxr923                                     **Never logged in**
+sjr677                                     **Never logged in**
+gvl674                                     **Never logged in**
+wza301                                     **Never logged in**
+qvb859                                     **Never logged in**
+fts181           pts/6    cpe-70-121-156-1 Mon Sep 26 22:36:42 -0500 2016
+ahi955                                     **Never logged in**
+nhj697                                     **Never logged in**
+zsy086                                     **Never logged in**
+law159                                     **Never logged in**
+wjn265           pts/5    172.24.72.16     Fri Apr 21 16:48:25 -0500 2017
+wju859                                     **Never logged in**
+cse894                                     **Never logged in**
+pfj031           pts/6    n0000a061.cs.uts Thu Apr 13 14:47:44 -0500 2017
+bks808                                     **Never logged in**
+yzc364           pts/1    172-125-228-92.l Mon May  8 15:53:28 -0500 2017
+kwy712                                     **Never logged in**
+qxu742                                     **Never logged in**
+ixn615                                     **Never logged in**
+ctj784                                     **Never logged in**
+mqj873                                     **Never logged in**
+wwh124                                     **Never logged in**
+omu075           pts/7    cpe-66-25-145-16 Thu Dec 15 07:15:58 -0600 2016
+iki484                                     **Never logged in**
+srz888                                     **Never logged in**
+thv858           pts/1    104-191-6-157.li Sun Jan 22 18:47:27 -0600 2017
+spv926                                     **Never logged in**
+nvf232                                     **Never logged in**
+rqh201                                     **Never logged in**
+kxa000                                     **Never logged in**
+mlf094                                     **Never logged in**
+pwq805           pts/1    184-226-125-241. Sun Aug 13 16:00:31 -0500 2017
+fje987           pts/6    n0000a092.cs.uts Thu Aug 25 11:48:05 -0500 2016
+lhm067                                     **Never logged in**
+zwo292                                     **Never logged in**
+caj468                                     **Never logged in**
+lxj682                                     **Never logged in**
+epx222                                     **Never logged in**
+zde199           pts/13   n0000a013.cs.uts Thu Aug 10 11:44:05 -0500 2017
+edf365           pts/10   172.24.53.148    Mon Apr 24 15:35:56 -0500 2017
+xlz041                                     **Never logged in**
+fay787                                     **Never logged in**
+dky407                                     **Never logged in**
+tmy862                                     **Never logged in**
+bld783           pts/1    172.24.89.160    Mon Jul 17 18:25:17 -0500 2017
+taq761                                     **Never logged in**
+uni786           pts/4    104.219.136.69   Thu Apr 27 18:08:44 -0500 2017
+kzl459           pts/1    69.55.115.245    Sat Jun 10 22:41:43 -0500 2017
+alk097                                     **Never logged in**
+wmd895                                     **Never logged in**
+iph343                                     **Never logged in**
+zws426                                     **Never logged in**
+uui003                                     **Never logged in**
+lea470                                     **Never logged in**
+ngi045           pts/4    cpe-76-185-150-2 Fri Jul 21 15:22:05 -0500 2017
+zfs511           pts/8    cpe-70-113-88-17 Thu Aug 17 12:52:38 -0500 2017
+byy749                                     **Never logged in**
+riq955                                     **Never logged in**
+caa438                                     **Never logged in**
+osg777                                     **Never logged in**
+ilq911                                     **Never logged in**
+lwc696                                     **Never logged in**
+iky188                                     **Never logged in**
+kbd357                                     **Never logged in**
+vcb781                                     **Never logged in**
+sjg373                                     **Never logged in**
+hep483                                     **Never logged in**
+oqf286                                     **Never logged in**
+lpv632                                     **Never logged in**
+gvy734                                     **Never logged in**
+csz860                                     **Never logged in**
+zrm836                                     **Never logged in**
+vsf884                                     **Never logged in**
+tae015           pts/3    rrcs-24-153-246- Sun Sep 25 14:10:06 -0500 2016
+pys021                                     **Never logged in**
+xkm458                                     **Never logged in**
+clq415                                     **Never logged in**
+svc695                                     **Never logged in**
+jxf669           pts/3    n0000a048.cs.uts Wed Aug  9 14:03:29 -0500 2017
+wun162           pts/5    45-21-3-27.light Wed May  3 21:49:25 -0500 2017
+cjl102                                     **Never logged in**
+cbr000                                     **Never logged in**
+dib952                                     **Never logged in**
+kpb418                                     **Never logged in**
+ofq976           pts/11   n0000e091.cs.uts Fri Feb 10 15:25:34 -0600 2017
+qwe633                                     **Never logged in**
+gjg321                                     **Never logged in**
+zvd629                                     **Never logged in**
+eev899                                     **Never logged in**
+kfr703                                     **Never logged in**
+qdv823                                     **Never logged in**
+ztp029                                     **Never logged in**
+ibw125                                     **Never logged in**
+zkk900                                     **Never logged in**
+hhk991                                     **Never logged in**
+amj052                                     **Never logged in**
+bio185                                     **Never logged in**
+nmt848           pts/2    ip-64-134-70-34. Sat Jul  1 18:28:30 -0500 2017
+tvs869                                     **Never logged in**
+wxi074                                     **Never logged in**
+wxf643                                     **Never logged in**
+pyy752                                     **Never logged in**
+zfl957                                     **Never logged in**
+avy834           pts/1    n0000a035.cs.uts Tue Jun 27 12:28:36 -0500 2017
+gfr995                                     **Never logged in**
+gbr461           pts/1    cpe-68-203-207-7 Fri Feb 17 22:27:01 -0600 2017
+iry020           pts/1    t0000b056.cs.uts Sun Oct 16 16:44:27 -0500 2016
+cgg833                                     **Never logged in**
+vzx840                                     **Never logged in**
+rte746                                     **Never logged in**
+yzj640                                     **Never logged in**
+xzd304                                     **Never logged in**
+ney558                                     **Never logged in**
+lxy533                                     **Never logged in**
+diz320                                     **Never logged in**
+aou239                                     **Never logged in**
+oaj425                                     **Never logged in**
+ydj005                                     **Never logged in**
+duv321                                     **Never logged in**
+sxo511                                     **Never logged in**
+xmp183                                     **Never logged in**
+drs721                                     **Never logged in**
+qmt916                                     **Never logged in**
+xek275           pts/11   t0000c010.cs.uts Sun Dec  4 17:53:55 -0600 2016
+wos180           pts/6    rrcs-97-77-107-2 Thu Apr 20 10:58:13 -0500 2017
+eez748                                     **Never logged in**
+qco784                                     **Never logged in**
+qyh075                                     **Never logged in**
+vbj970                                     **Never logged in**
+zyy294                                     **Never logged in**
+mgd473           pts/0    173.227.72.99    Fri Aug 11 13:34:43 -0500 2017
+cdd105           pts/4    65-36-96-207.dyn Fri Jul 14 02:09:50 -0500 2017
+hqe380                                     **Never logged in**
+ubm700                                     **Never logged in**
+fnu882           pts/7    173.227.72.99    Thu Feb 16 23:27:41 -0600 2017
+fwy843                                     **Never logged in**
+ssq233                                     **Never logged in**
+zph740                                     **Never logged in**
+fbd428                                     **Never logged in**
+ykf217           pts/3    70-239-169-5.lig Fri Aug  4 16:43:58 -0500 2017
+pao952           pts/8    n0000a026.cs.uts Mon Jul 24 16:31:11 -0500 2017
+wpq160           pts/6    n0000a009.cs.uts Mon Jun 26 19:39:39 -0500 2017
+ete727                                     **Never logged in**
+gdg843                                     **Never logged in**
+aop971                                     **Never logged in**
+wek717                                     **Never logged in**
+mua077                                     **Never logged in**
+rdx305                                     **Never logged in**
+ccm296                                     **Never logged in**
+hjt210                                     **Never logged in**
+twt535                                     **Never logged in**
+pci378                                     **Never logged in**
+bmo973                                     **Never logged in**
+akh247                                     **Never logged in**
+ahj335                                     **Never logged in**
+sab270                                     **Never logged in**
+mlw374                                     **Never logged in**
+uzi454                                     **Never logged in**
+ion974                                     **Never logged in**
+wwf637                                     **Never logged in**
+hvm851                                     **Never logged in**
+lqu037           pts/7    71-137-145-47.li Sun Dec  4 13:36:05 -0600 2016
+psa562                                     **Never logged in**
+dds891                                     **Never logged in**
+qtu977                                     **Never logged in**
+wpm361                                     **Never logged in**
+kua008                                     **Never logged in**
+eyg338           pts/1    n0000d022.cs.uts Wed Jan 25 14:41:05 -0600 2017
+uyi362           pts/3    cpe-67-11-192-19 Fri Aug  4 21:30:08 -0500 2017
+bxb760           pts/5    n0000a127.cs.uts Tue Aug  8 16:32:49 -0500 2017
+dvz710                                     **Never logged in**
+jcz867                                     **Never logged in**
+czs721                                     **Never logged in**
+dzy326                                     **Never logged in**
+aju722                                     **Never logged in**
+nmn777                                     **Never logged in**
+apc665                                     **Never logged in**
+fvi267                                     **Never logged in**
+lsh560           pts/2    n0000a231.cs.uts Wed Aug 31 16:30:19 -0500 2016
+nal250           pts/4    170-72-159-90.tx Sun Apr 23 13:42:49 -0500 2017
+sdf830           pts/6    172.24.40.17     Sun Jul  9 21:20:47 -0500 2017
+kbm846                                     **Never logged in**
+owd662                                     **Never logged in**
+axh733           pts/1    172.24.53.70     Wed Jan 11 17:52:39 -0600 2017
+awa794                                     **Never logged in**
+nvu913                                     **Never logged in**
+lok139                                     **Never logged in**
+oyj723                                     **Never logged in**
+hwt460                                     **Never logged in**
+okf163                                     **Never logged in**
+ior553                                     **Never logged in**
+wib317                                     **Never logged in**
+jgl270                                     **Never logged in**
+jcu032                                     **Never logged in**
+axj632                                     **Never logged in**
+zzm146                                     **Never logged in**
+qrg457                                     **Never logged in**
+ipy093                                     **Never logged in**
+umo850                                     **Never logged in**
+jep446                                     **Never logged in**
+dyu035                                     **Never logged in**
+von757                                     **Never logged in**
+vyg037                                     **Never logged in**
+hlh915           pts/8    n0000a004.cs.uts Wed Aug  2 10:59:13 -0500 2017
+azg021                                     **Never logged in**
+obd084                                     **Never logged in**
+szw935           pts/27   n0000a043.cs.uts Fri Aug 18 08:58:43 -0500 2017
+rlc386                                     **Never logged in**
+mxl922                                     **Never logged in**
+gwt439           pts/2    jpllic-2120.utsa Fri Jan 27 14:39:32 -0600 2017
+ckj992           pts/8    45-21-5-255.ligh Sun Jun 25 17:30:07 -0500 2017
+ned856                                     **Never logged in**
+mri121                                     **Never logged in**
+pdy051                                     **Never logged in**
+qja551                                     **Never logged in**
+rxf484           pts/8    209.184.116.205  Thu Aug 17 11:12:53 -0500 2017
+wpg175           pts/12   cpe-173-174-133- Sun Jan 29 13:19:09 -0600 2017
+ssr700                                     **Never logged in**
+gjw811                                     **Never logged in**
+fiu289           pts/4    cpe-173-174-182- Fri Jul 28 23:10:03 -0500 2017
+jgi302           pts/18   cpe-67-11-59-228 Mon Sep 26 19:59:46 -0500 2016
+gpq110                                     **Never logged in**
+pxh304                                     **Never logged in**
+jbu904                                     **Never logged in**
+qog092                                     **Never logged in**
+nja859                                     **Never logged in**
+wnq524           pts/1    cpe-72-178-117-1 Tue Jun 20 22:05:54 -0500 2017
+eku864           pts/6    n0000d003.cs.uts Wed Jan 11 10:13:24 -0600 2017
+jef113                                     **Never logged in**
+tvl609           pts/1    45-17-26-63.ligh Wed Mar 15 20:20:26 -0500 2017
+ypn603                                     **Never logged in**
+dvr218                                     **Never logged in**
+dqb289                                     **Never logged in**
+iec836                                     **Never logged in**
+cof152           pts/2    cpe-70-121-204-7 Thu May  4 14:36:05 -0500 2017
+gzm916                                     **Never logged in**
+bej579                                     **Never logged in**
+rkb323                                     **Never logged in**
+pwe746                                     **Never logged in**
+eeo072           pts/1    n0000d056.cs.uts Wed Jan 25 14:29:06 -0600 2017
+gex401                                     **Never logged in**
+fvb192                                     **Never logged in**
+kru239                                     **Never logged in**
+hqg339                                     **Never logged in**
+xfz309                                     **Never logged in**
+jty839                                     **Never logged in**
+fjs138                                     **Never logged in**
+ssv242                                     **Never logged in**
+ijh213                                     **Never logged in**
+lyf037                                     **Never logged in**
+wfv249                                     **Never logged in**
+bqr789           pts/3    n0000d138.cs.uts Tue Jan 10 10:48:03 -0600 2017
+zki628                                     **Never logged in**
+mik026                                     **Never logged in**
+zzn974                                     **Never logged in**
+ddd049                                     **Never logged in**
+hsi400                                     **Never logged in**
+uic155                                     **Never logged in**
+tqy308                                     **Never logged in**
+mzp720                                     **Never logged in**
+elv495                                     **Never logged in**
+wae319           pts/1    rrcs-97-77-161-1 Tue Jun 27 12:32:53 -0500 2017
+uoo983                                     **Never logged in**
+oco405                                     **Never logged in**
+ial812                                     **Never logged in**
+ejx994                                     **Never logged in**
+jpl499                                     **Never logged in**
+itp991           pts/4    104-190-246-33.l Thu Oct 27 23:30:40 -0500 2016
+eap944           pts/10   n0000d041.cs.uts Fri Jan 20 11:03:45 -0600 2017
+yvp977           pts/12   172.24.104.238   Mon Jun 12 11:59:55 -0500 2017
+tue170                                     **Never logged in**
+hnu087                                     **Never logged in**
+mtb552           pts/4    n0000a040.cs.uts Fri Aug 11 17:10:52 -0500 2017
+zoa511           pts/3    mangw.cs.utsarr. Fri Jan 20 11:57:11 -0600 2017
+hpe554                                     **Never logged in**
+qif290           pts/6    cpe-66-69-74-94. Fri Aug 11 20:11:31 -0500 2017
+seu019           pts/7    172.24.73.255    Mon Jul 31 14:25:39 -0500 2017
+xzh101           pts/1    n0000a043.cs.uts Tue Jul 18 12:07:02 -0500 2017
+ykz029                                     **Never logged in**
+fjl528                                     **Never logged in**
+iri852                                     **Never logged in**
+lvd758                                     **Never logged in**
+tas889           pts/6    173.227.72.99    Sun Feb 12 15:48:01 -0600 2017
+mph837                                     **Never logged in**
+prc620                                     **Never logged in**
+qpp336                                     **Never logged in**
+nzt280                                     **Never logged in**
+oeg462                                     **Never logged in**
+yqg982           pts/15   t0000b075.cs.uts Fri Dec  2 22:34:18 -0600 2016
+duv590                                     **Never logged in**
+eyu473                                     **Never logged in**
+stl947                                     **Never logged in**
+dki576                                     **Never logged in**
+kdx655                                     **Never logged in**
+rfr722                                     **Never logged in**
+yiv422                                     **Never logged in**
+hsp956                                     **Never logged in**
+ofe058                                     **Never logged in**
+jhi286           pts/3    n0000d122.cs.uts Fri Jan 20 10:05:41 -0600 2017
+ivt030                                     **Never logged in**
+xga367                                     **Never logged in**
+fcv973                                     **Never logged in**
+szq694                                     **Never logged in**
+axx033                                     **Never logged in**
+ilk056           pts/1    n0000d120.cs.uts Mon Jan 23 17:37:04 -0600 2017
+pyn109                                     **Never logged in**
+yqf724                                     **Never logged in**
+uoz480                                     **Never logged in**
+tgw095                                     **Never logged in**
+jir292                                     **Never logged in**
+nxw010                                     **Never logged in**
+lup726                                     **Never logged in**
+iqc287                                     **Never logged in**
+rxs959                                     **Never logged in**
+bda508                                     **Never logged in**
+nwq225                                     **Never logged in**
+bee416                                     **Never logged in**
+wqr974                                     **Never logged in**
+ssp336                                     **Never logged in**
+kec460                                     **Never logged in**
+kzz176                                     **Never logged in**
+mat574                                     **Never logged in**
+yjv649                                     **Never logged in**
+ssr160                                     **Never logged in**
+fzt278                                     **Never logged in**
+qhb659                                     **Never logged in**
+aom214                                     **Never logged in**
+fup563                                     **Never logged in**
+tiy272                                     **Never logged in**
+rkt650                                     **Never logged in**
+bdn269                                     **Never logged in**
+lvz132           pts/2    n0000a054.cs.uts Wed Jul  5 01:24:44 -0500 2017
+gel982                                     **Never logged in**
+wfp610                                     **Never logged in**
+shk245                                     **Never logged in**
+riw525                                     **Never logged in**
+ceb894           pts/1    cpe-72-177-183-7 Sat May 13 21:54:03 -0500 2017
+vqv173                                     **Never logged in**
+lfp128                                     **Never logged in**
+syx009                                     **Never logged in**
+kwg484                                     **Never logged in**
+gdp629                                     **Never logged in**
+esd529                                     **Never logged in**
+xtu966                                     **Never logged in**
+gmb747                                     **Never logged in**
+ufk345                                     **Never logged in**
+slq584                                     **Never logged in**
+hsg048           pts/9    cpe-72-191-42-20 Wed Apr 27 13:54:47 -0500 2016
+hou165           pts/9    n0000d181.cs.uts Mon Jan  9 19:08:27 -0600 2017
+sja403                                     **Never logged in**
+frr944                                     **Never logged in**
+seo295                                     **Never logged in**
+pgl275           pts/13   n0000d145.cs.uts Wed Jan 27 11:09:20 -0600 2016
+mrm675                                     **Never logged in**
+kio030                                     **Never logged in**
+hqc587                                     **Never logged in**
+onp955                                     **Never logged in**
+jbl684                                     **Never logged in**
+ayb113                                     **Never logged in**
+pbh089                                     **Never logged in**
+skk956                                     **Never logged in**
+lrv966                                     **Never logged in**
+kdi542                                     **Never logged in**
+fwy641                                     **Never logged in**
+zap994                                     **Never logged in**
+fqb462                                     **Never logged in**
+euw112                                     **Never logged in**
+ren268                                     **Never logged in**
+wao398                                     **Never logged in**
+hto735                                     **Never logged in**
+wnf962           pts/10   n0000d146.cs.uts Tue Jan 12 19:05:46 -0600 2016
+jvx428                                     **Never logged in**
+ngc849                                     **Never logged in**
+nlq431                                     **Never logged in**
+gpy161                                     **Never logged in**
+wwl441                                     **Never logged in**
+oeo383                                     **Never logged in**
+ipy345                                     **Never logged in**
+ywi833           pts/5    cpe-66-69-22-64. Wed May  4 22:12:16 -0500 2016
+wne655                                     **Never logged in**
+moe316                                     **Never logged in**
+etz923           pts/6    n0000a022.cs.uts Sat Apr 29 21:37:00 -0500 2017
+mli228                                     **Never logged in**
+jol754                                     **Never logged in**
+jrz662                                     **Never logged in**
+ree910                                     **Never logged in**
+lbx430                                     **Never logged in**
+ymz834                                     **Never logged in**
+kkb287                                     **Never logged in**
+wed055                                     **Never logged in**
+agf807                                     **Never logged in**
+asv947                                     **Never logged in**
+buu638                                     **Never logged in**
+zua703                                     **Never logged in**
+vcj732                                     **Never logged in**
+cks392                                     **Never logged in**
+jfy390                                     **Never logged in**
+aei232                                     **Never logged in**
+xoh078                                     **Never logged in**
+jof596                                     **Never logged in**
+ngy174                                     **Never logged in**
+fdo636                                     **Never logged in**
+fyo023                                     **Never logged in**
+cza267                                     **Never logged in**
+zti284                                     **Never logged in**
+dkz503                                     **Never logged in**
+cko441                                     **Never logged in**
+pfa698                                     **Never logged in**
+gzn680                                     **Never logged in**
+ifw098                                     **Never logged in**
+ttp868                                     **Never logged in**
+kyh871                                     **Never logged in**
+imw443                                     **Never logged in**
+rvm268                                     **Never logged in**
+zfu534                                     **Never logged in**
+trl332                                     **Never logged in**
+mww144           pts/1    cpe-72-179-130-3 Tue May  3 22:57:39 -0500 2016
+qtg729                                     **Never logged in**
+xne693                                     **Never logged in**
+yof995                                     **Never logged in**
+ubp655                                     **Never logged in**
+auv298                                     **Never logged in**
+urp856                                     **Never logged in**
+gxj127                                     **Never logged in**
+sfk972                                     **Never logged in**
+jgt954           pts/5    104-53-213-163.l Sun Apr 17 21:44:27 -0500 2016
+ixq321                                     **Never logged in**
+wme269           pts/1    104.219.136.32   Fri Jun  3 22:44:16 -0500 2016
+muq076                                     **Never logged in**
+hoh207                                     **Never logged in**
+bfk017                                     **Never logged in**
+kkx476                                     **Never logged in**
+rpr529                                     **Never logged in**
+xas495                                     **Never logged in**
+prz719                                     **Never logged in**
+jds077           pts/6    n0000d150.cs.uts Mon Jan  9 19:04:17 -0600 2017
+uyz655                                     **Never logged in**
+bws571                                     **Never logged in**
+hmy597           pts/1    rrcs-71-42-98-18 Mon May 16 11:27:21 -0500 2016
+rfa261                                     **Never logged in**
+ssc715                                     **Never logged in**
+uhc261                                     **Never logged in**
+nnb807           pts/1    n0000d164.cs.uts Mon Feb  8 07:58:50 -0600 2016
+hkl033                                     **Never logged in**
+emj435                                     **Never logged in**
+usc179                                     **Never logged in**
+awd768                                     **Never logged in**
+dde959                                     **Never logged in**
+uoj778                                     **Never logged in**
+bru003                                     **Never logged in**
+aow465                                     **Never logged in**
+qqs349                                     **Never logged in**
+ltv880                                     **Never logged in**
+awc013           pts/2    n0000d114.cs.uts Mon Feb  6 21:12:20 -0600 2017
+suu735                                     **Never logged in**
+kjj407                                     **Never logged in**
+cmg294           pts/3    cpe-24-243-25-62 Mon Feb 15 21:28:40 -0600 2016
+sas248                                     **Never logged in**
+wgz940                                     **Never logged in**
+zxn384                                     **Never logged in**
+ifh857                                     **Never logged in**
+huh550                                     **Never logged in**
+sqc074                                     **Never logged in**
+doc215           pts/1    rrcs-97-77-107-2 Thu Aug 11 19:30:29 -0500 2016
+ycv517                                     **Never logged in**
+rfc061                                     **Never logged in**
+avb984                                     **Never logged in**
+efv744                                     **Never logged in**
+djb908                                     **Never logged in**
+zvx333                                     **Never logged in**
+brn395                                     **Never logged in**
+pck247                                     **Never logged in**
+ekp292                                     **Never logged in**
+rph260                                     **Never logged in**
+avz223                                     **Never logged in**
+cwd891           pts/3    n0000d173.cs.uts Mon Jan  9 19:04:12 -0600 2017
+nnj187                                     **Never logged in**
+jtp202                                     **Never logged in**
+cnu405                                     **Never logged in**
+zwp811                                     **Never logged in**
+kec296           pts/1    75.35.182.43     Mon Jan  9 18:34:00 -0600 2017
+xuk334                                     **Never logged in**
+irn556                                     **Never logged in**
+vkc553                                     **Never logged in**
+byq851                                     **Never logged in**
+haw596                                     **Never logged in**
+uns618                                     **Never logged in**
+pke839                                     **Never logged in**
+exy549                                     **Never logged in**
+zpp390                                     **Never logged in**
+srf737                                     **Never logged in**
+ddb477                                     **Never logged in**
+rrm701                                     **Never logged in**
+psw609                                     **Never logged in**
+ybu288                                     **Never logged in**
+gtq090                                     **Never logged in**
+uxk491                                     **Never logged in**
+fqf868                                     **Never logged in**
+lmn022                                     **Never logged in**
+nmp172                                     **Never logged in**
+lka318                                     **Never logged in**
+dpa370           pts/17   n0000a049.cs.uts Fri Apr 28 18:44:48 -0500 2017
+qxz631                                     **Never logged in**
+mqt014                                     **Never logged in**
+jcr856                                     **Never logged in**
+fsm141                                     **Never logged in**
+wmi593           pts/6    gnu011.cs.utsarr Tue Apr 26 14:03:28 -0500 2016
+lsj865                                     **Never logged in**
+mkh715                                     **Never logged in**
+lto243                                     **Never logged in**
+zfv431                                     **Never logged in**
+rlb384                                     **Never logged in**
+pmh175                                     **Never logged in**
+eoo321                                     **Never logged in**
+hlh765                                     **Never logged in**
+jpp863                                     **Never logged in**
+dib811           pts/4    cpe-173-174-238- Sat Jul  1 23:37:07 -0500 2017
+ehj211                                     **Never logged in**
+bjh112                                     **Never logged in**
+adx067           pts/2    n0000d026.cs.uts Mon Jan  9 19:03:21 -0600 2017
+xxc738                                     **Never logged in**
+xbu153                                     **Never logged in**
+hea690                                     **Never logged in**
+kml206                                     **Never logged in**
+ktr526                                     **Never logged in**
+qqw556                                     **Never logged in**
+ryl319                                     **Never logged in**
+hrx876                                     **Never logged in**
+vdm988                                     **Never logged in**
+jue070                                     **Never logged in**
+jjh088                                     **Never logged in**
+nkh510                                     **Never logged in**
+qte044                                     **Never logged in**
+tzv794                                     **Never logged in**
+hut049           pts/10   10.100.235.23    Mon Feb 15 20:55:49 -0600 2016
+iou957                                     **Never logged in**
+pmp099                                     **Never logged in**
+mdr814           pts/2    cpe-72-179-185-2 Fri Apr  8 21:48:11 -0500 2016
+rgs703                                     **Never logged in**
+xee621                                     **Never logged in**
+gah077                                     **Never logged in**
+acx320                                     **Never logged in**
+xwl963                                     **Never logged in**
+elj354                                     **Never logged in**
+dbi142                                     **Never logged in**
+xww528                                     **Never logged in**
+ldt409                                     **Never logged in**
+eds464                                     **Never logged in**
+vkh790           pts/1    rrcs-71-41-231-1 Tue May 10 15:50:54 -0500 2016
+hnn727           pts/3    cpe-72-179-171-2 Tue Mar 29 22:55:58 -0500 2016
+ppe380                                     **Never logged in**
+xmz855                                     **Never logged in**
+phf818                                     **Never logged in**
+dbi047                                     **Never logged in**
+lqw880                                     **Never logged in**
+pss904                                     **Never logged in**
+zpk794                                     **Never logged in**
+xjn192                                     **Never logged in**
+dan574                                     **Never logged in**
+mez018                                     **Never logged in**
+wtz966                                     **Never logged in**
+sxk315           pts/1    n0000d169.cs.uts Fri Apr 15 10:41:11 -0500 2016
+rdu654                                     **Never logged in**
+lgx798                                     **Never logged in**
+xwh327           pts/16   cpe-173-174-201- Mon Apr 25 14:51:09 -0500 2016
+bdf749                                     **Never logged in**
+okz672                                     **Never logged in**
+uck475                                     **Never logged in**
+wta076                                     **Never logged in**
+zcs044                                     **Never logged in**
+dcn305                                     **Never logged in**
+lfm673                                     **Never logged in**
+ppb700                                     **Never logged in**
+ury600                                     **Never logged in**
+dgh105           pts/6    172.24.107.226   Wed Apr 27 19:11:44 -0500 2016
+dkf812                                     **Never logged in**
+rgm591                                     **Never logged in**
+nzh400                                     **Never logged in**
+zxz155                                     **Never logged in**
+wyh641                                     **Never logged in**
+xge448                                     **Never logged in**
+vtt587           pts/1    cpe-70-121-213-2 Wed Apr 13 17:32:28 -0500 2016
+zad287                                     **Never logged in**
+lsk270                                     **Never logged in**
+vqx621                                     **Never logged in**
+wlm861           pts/3    99-41-198-107.li Mon May  2 03:07:11 -0500 2016
+oea137                                     **Never logged in**
+jox167                                     **Never logged in**
+aeo396                                     **Never logged in**
+wtp173                                     **Never logged in**
+dqx443                                     **Never logged in**
+mne620                                     **Never logged in**
+eqa974           pts/4    n0000a094.cs.uts Mon Jun 26 15:34:02 -0500 2017
+dmv471           pts/6    cpe-67-11-216-23 Sun Feb  5 00:17:03 -0600 2017
+orl518                                     **Never logged in**
+wft480                                     **Never logged in**
+tbf043                                     **Never logged in**
+ivq495                                     **Never logged in**
+ffn480                                     **Never logged in**
+tbk941                                     **Never logged in**
+abz555                                     **Never logged in**
+ilg531                                     **Never logged in**
+aaf453                                     **Never logged in**
+kyn468           pts/1    dhcp-201-133.pt. Mon May 23 06:40:02 -0500 2016
+jda740                                     **Never logged in**
+iff539                                     **Never logged in**
+gbr790                                     **Never logged in**
+yrq381                                     **Never logged in**
+jcq340                                     **Never logged in**
+qot590                                     **Never logged in**
+phq605                                     **Never logged in**
+sgc519                                     **Never logged in**
+mxf942           pts/1    24-155-119-56.dy Fri Mar 11 06:56:42 -0600 2016
+pik355                                     **Never logged in**
+agf167                                     **Never logged in**
+wts479                                     **Never logged in**
+opn630                                     **Never logged in**
+zmi177                                     **Never logged in**
+hww134                                     **Never logged in**
+xts813                                     **Never logged in**
+zch577                                     **Never logged in**
+fto145                                     **Never logged in**
+xtl620                                     **Never logged in**
+fah146                                     **Never logged in**
+yor775                                     **Never logged in**
+smf443                                     **Never logged in**
+oiv035                                     **Never logged in**
+nzx844                                     **Never logged in**
+kts306                                     **Never logged in**
+axx715                                     **Never logged in**
+pcf266                                     **Never logged in**
+uxp695                                     **Never logged in**
+pjt548                                     **Never logged in**
+gvf430                                     **Never logged in**
+ixn211                                     **Never logged in**
+zdy262                                     **Never logged in**
+qna719                                     **Never logged in**
+rsl468                                     **Never logged in**
+yzm434                                     **Never logged in**
+xjn529                                     **Never logged in**
+ikr216                                     **Never logged in**
+buv244                                     **Never logged in**
+vil203                                     **Never logged in**
+kea051                                     **Never logged in**
+rmv388                                     **Never logged in**
+yuj954                                     **Never logged in**
+bxw372           pts/4    mobile-166-176-1 Sat Jul 29 11:07:53 -0500 2017
+qle458                                     **Never logged in**
+umd189                                     **Never logged in**
+aqw912                                     **Never logged in**
+wcy356                                     **Never logged in**
+oiz191           pts/1    172.24.8.173     Wed Jul 26 12:24:35 -0500 2017
+zsu177                                     **Never logged in**
+lwr014                                     **Never logged in**
+bon733                                     **Never logged in**
+miw697                                     **Never logged in**
+hfk870                                     **Never logged in**
+cqo853                                     **Never logged in**
+vic094                                     **Never logged in**
+kwu945                                     **Never logged in**
+esv978           pts/6    172.24.67.205    Wed Apr 27 17:50:14 -0500 2016
+fxc787                                     **Never logged in**
+gfa068                                     **Never logged in**
+aqv032                                     **Never logged in**
+ctg360                                     **Never logged in**
+gtd813                                     **Never logged in**
+ial272                                     **Never logged in**
+ava801           pts/3    172.24.67.255    Tue Feb 16 16:11:02 -0600 2016
+gij817                                     **Never logged in**
+hmu981                                     **Never logged in**
+oxs383                                     **Never logged in**
+hcj923                                     **Never logged in**
+feb634                                     **Never logged in**
+wys925           pts/3    cpe-72-190-140-2 Tue May 10 21:21:56 -0500 2016
+drj962                                     **Never logged in**
+qyj680           pts/1    99-62-49-89.ligh Tue Mar  7 00:21:46 -0600 2017
+rvn028                                     **Never logged in**
+jon528                                     **Never logged in**
+mlt515                                     **Never logged in**
+lwj027                                     **Never logged in**
+mnv284                                     **Never logged in**
+oqj537                                     **Never logged in**
+bdv658                                     **Never logged in**
+dzf431                                     **Never logged in**
+qay739                                     **Never logged in**
+harrison                                   **Never logged in**
+kcf606                                     **Never logged in**
+vxd973                                     **Never logged in**
+luu797                                     **Never logged in**
+ssx858                                     **Never logged in**
+kvn137                                     **Never logged in**
+jip624                                     **Never logged in**
+kqs375                                     **Never logged in**
+cmo911                                     **Never logged in**
+wdv511                                     **Never logged in**
+lmk163           pts/5    75-1-53-175.ligh Sun May  1 14:40:25 -0500 2016
+ner796                                     **Never logged in**
+jyw543                                     **Never logged in**
+qed252                                     **Never logged in**
+qer419                                     **Never logged in**
+pnf144                                     **Never logged in**
+qwl123           pts/3    t0000b028.cs.uts Sun Nov  6 20:36:18 -0600 2016
+vxk940                                     **Never logged in**
+ign929                                     **Never logged in**
+yei254                                     **Never logged in**
+znj398                                     **Never logged in**
+ohv984                                     **Never logged in**
+cao241                                     **Never logged in**
+ekh437           pts/3    n0000a062.cs.uts Wed Aug 31 09:51:56 -0500 2016
+jqn693                                     **Never logged in**
+deo823                                     **Never logged in**
+ghd099           pts/1    cpe-173-174-209- Sat May 13 17:47:03 -0500 2017
+ooj459                                     **Never logged in**
+jwn198           pts/2    129.162.108.133  Tue Feb  7 12:45:23 -0600 2017
+jtq509           pts/3    10.100.235.23    Tue Feb 23 11:45:38 -0600 2016
+xct694                                     **Never logged in**
+vqx703                                     **Never logged in**
+zwl434           pts/11   n0000b098.cs.uts Fri Apr 29 23:34:43 -0500 2016
+svf633                                     **Never logged in**
+gxn513           pts/13   adsl-69-208-243- Sun Sep 18 22:57:55 -0500 2016
+iks460                                     **Never logged in**
+gfu101                                     **Never logged in**
+wvz835                                     **Never logged in**
+cfh734                                     **Never logged in**
+amn534                                     **Never logged in**
+dfb879                                     **Never logged in**
+iwr157                                     **Never logged in**
+lmq224                                     **Never logged in**
+udl846                                     **Never logged in**
+xyg752                                     **Never logged in**
+wzd833                                     **Never logged in**
+myn562                                     **Never logged in**
+tpp571                                     **Never logged in**
+xxy998                                     **Never logged in**
+cwk199                                     **Never logged in**
+tyl348                                     **Never logged in**
+ras759                                     **Never logged in**
+mei863                                     **Never logged in**
+ymk532                                     **Never logged in**
+sgj621                                     **Never logged in**
+lgf893                                     **Never logged in**
+xce212                                     **Never logged in**
+ekc276                                     **Never logged in**
+ham915                                     **Never logged in**
+goz378           pts/1    75.102.133.82    Tue Mar 22 01:23:49 -0500 2016
+qwo781           pts/4    99-100-170-112.l Wed Nov 16 00:06:34 -0600 2016
+rob470                                     **Never logged in**
+frg894                                     **Never logged in**
+jdw512           pts/1    216-188-250-144. Wed Jun  1 12:53:56 -0500 2016
+icw212                                     **Never logged in**
+pyu612           pts/11   t0000b015.cs.uts Wed Oct 26 15:55:01 -0500 2016
+nve814           pts/1    cs459309.cs.utsa Mon Jul 18 14:01:09 -0500 2016
+bkz603           pts/8    129.115.27.203   Mon Apr  4 10:11:32 -0500 2016
+wxb428                                     **Never logged in**
+gov380                                     **Never logged in**
+qnv639                                     **Never logged in**
+rue750                                     **Never logged in**
+yrm664           pts/6    104-180-82-47.li Thu Dec  1 19:07:43 -0600 2016
+ykg006                                     **Never logged in**
+rng795                                     **Never logged in**
+dba049                                     **Never logged in**
+ahi433                                     **Never logged in**
+lkl645                                     **Never logged in**
+cee583                                     **Never logged in**
+ums562                                     **Never logged in**
+krishnan         pts/3    173.227.72.99    Mon Aug  7 11:39:56 -0500 2017
+fernandez        pts/11   n0000d193.cs.uts Wed Jan 13 11:13:49 -0600 2016
+rslavin          pts/2    104.218.77.194   Tue Aug 15 10:11:37 -0500 2017
+ytang                                      **Never logged in**
+js01             pts/2    n0000a026.cs.uts Thu Aug 17 08:44:07 -0500 2017
+js02                                       **Never logged in**
+js04             pts/28   n0000a043.cs.uts Fri Aug 18 08:59:32 -0500 2017
+js05             pts/1    n0000a011.cs.uts Thu Aug 17 08:43:51 -0500 2017
+js06             pts/4    n0000a019.cs.uts Fri Aug 18 08:51:22 -0500 2017
+js07                                       **Never logged in**
+js08                                       **Never logged in**
+js09             pts/11   n0000a009.cs.uts Fri Aug 18 08:52:33 -0500 2017
+js10             pts/17   n0000a167.cs.uts Fri Aug 18 08:52:34 -0500 2017
+js11                                       **Never logged in**
+js12             pts/14   n0000a163.cs.uts Fri Aug 18 08:52:34 -0500 2017
+js13                                       **Never logged in**
+js14             pts/16   n0000a041.cs.uts Fri Aug 18 08:52:34 -0500 2017
+js15             pts/12   n0000a030.cs.uts Fri Aug 18 08:52:33 -0500 2017
+js16             pts/20   n0000a033.cs.uts Fri Aug 18 08:52:38 -0500 2017
+js17             pts/3    moreau.cs.utsarr Thu Feb  4 10:10:59 -0600 2016
+js18             pts/8    n0000a015.cs.uts Fri Aug 18 08:52:32 -0500 2017
+js19             pts/6    n0000a049.cs.uts Fri Aug 18 08:52:14 -0500 2017
+js20             pts/10   n0000a011.cs.uts Fri Aug 18 08:52:33 -0500 2017
+js21             pts/26   n0000a172.cs.uts Fri Aug 18 08:58:41 -0500 2017
+js22                                       **Never logged in**
+js23             pts/13   n0000a046.cs.uts Fri Aug 18 08:52:34 -0500 2017
+js24             pts/9    n0000a042.cs.uts Fri Aug 18 08:52:33 -0500 2017
+js25             pts/25   n0000a020.cs.uts Fri Aug 18 08:55:54 -0500 2017
+js26             pts/24   n0000a006.cs.uts Fri Aug 18 08:54:55 -0500 2017
+js27             pts/23   n0000a024.cs.uts Fri Aug 18 08:54:43 -0500 2017
+js28             pts/21   n0000a007.cs.uts Fri Aug 18 08:54:25 -0500 2017
+js29                                       **Never logged in**
+js30                                       **Never logged in**
+js31                                       **Never logged in**
+js32                                       **Never logged in**
+js33                                       **Never logged in**
+js34                                       **Never logged in**
+js35                                       **Never logged in**
+js36                                       **Never logged in**
+js37                                       **Never logged in**
+js38             pts/6    n0000d050.cs.uts Thu Apr 28 17:43:18 -0500 2016
+js39                                       **Never logged in**
+js40                                       **Never logged in**
+js41                                       **Never logged in**
+js42                                       **Never logged in**
+js43                                       **Never logged in**
+js44                                       **Never logged in**
+js45                                       **Never logged in**
+js03             pts/3    n0000a027.cs.uts Thu Sep  1 16:34:34 -0500 2016
