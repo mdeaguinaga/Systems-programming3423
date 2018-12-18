@@ -1,0 +1,52 @@
+Script started on Fri 15 Sep 2017 07:02:33 PM CDT
+[4mgnu016[24m:[1m~/cs3423/Assignments/proj1[0m> ./proj1.bash < /usr/local/courses/clark/cs3423/2017Fa/Proj1/p1Input.txt 
+Enter one of the following actions or press CTRL-D to exit:
+C - create a customer file
+P - accept a customer payment
+F - find customer by Appartment 
+Customer already exist
+Enter one of the following actions or press CTRL-D to exit:
+C - create a customer file
+P - accept a customer payment
+F - find customer by Appartment 
+Ammount will be added
+Enter one of the following actions or press CTRL-D to exit:
+C - create a customer file
+P - accept a customer payment
+F - find customer by Appartment 
+Customer already exist
+Enter one of the following actions or press CTRL-D to exit:
+C - create a customer file
+P - accept a customer payment
+F - find customer by Appartment 
+grep: Data/Data: Is a directory
+Email:    Candy
+Name:     Barr 
+Apt:      APT-3D
+Balance:  900
+Rent Amt: 0
+Due Date: 2017-10-07
+Enter one of the following actions or press CTRL-D to exit:
+C - create a customer file
+P - accept a customer payment
+F - find customer by Appartment 
+grep: Data/Data: Is a directory
+Error: apartment number not found
+Enter one of the following actions or press CTRL-D to exit:
+C - create a customer file
+P - accept a customer payment
+F - find customer by Appartment 
+Ammount will be added
+Enter one of the following actions or press CTRL-D to exit:
+C - create a customer file
+P - accept a customer payment
+F - find customer by Appartment 
+Error: customer not found
+Enter one of the following actions or press CTRL-D to exit:
+C - create a customer file
+P - accept a customer payment
+F - find customer by Appartment 
+[4mgnu016[24m:[1m~/cs3423/Assignments/proj1[0m> exit
+exit
+
+Script done on Fri 15 Sep 2017 07:03:16 PM CDT
