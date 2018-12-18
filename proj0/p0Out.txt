@@ -1,0 +1,4 @@
+My name is Manuel DeAguinaga
+I am running this script from /home/uyi362/cs3423/Assignments
+My username is uyi362
+I am logged in to fox01
