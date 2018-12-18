@@ -1,0 +1,12 @@
+pcorn@abc.net
+NAME Pop Corn 
+ACCOUNT pcorn@abc.net Col. 200
+pennyl@xyz.net
+NAME Penny Loafer 
+ACCOUNT pennyl@xyz.net Miss 300
+butter@xyz.net
+NAME Melba Toast 
+ACCOUNT butter@xyz.net Ms. 250
+bobhead@abc.com
+NAME Bob L Head 
+ACCOUNT bobhead@abc.com Mr. 990
