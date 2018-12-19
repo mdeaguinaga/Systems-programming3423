@@ -1,0 +1,2 @@
+pipe awk -f Data/p3LastFirst.awk Data/unsortedNames.txt , sort , awk -f Data/p3RmLast.awk - > Dout/extraSortedNames.txt
+pipe Data/one < Data/oneIn.txt , Data/two , Data/three , Data/four > Dout/extraFour.out
